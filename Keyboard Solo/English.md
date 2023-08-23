@@ -40,8 +40,7 @@
 | Laughter is the closest distance between two people. | Borge |
 | It is possible to store the mind with a million facts and still be entirely uneducated. | Bourne |
 | Never despair; but if you do, work on in despair. | Burke |
-| And, after all, what is a lie? ’Tis but
-The truth in masquerade. | Byron |
+| And, after all, what is a lie? ’Tis but<br/>The truth in masquerade. | Byron |
 | I can’t understand why people are frightened of new ideas. I’m frightened of the old ones. | Cage |
 | If someone says ‘can’t’, that shows you what to do. | Cage |
 | An intellectual is someone whose mind watches itself. | Camus |
@@ -169,10 +168,8 @@ The truth in masquerade. | Byron |
 | The voice of the intellect is a soft one, but it does not rest till it has gained a hearing. | Freud |
 | A diplomat is a man who always remembers a woman’s birthday but never remembers her age. | Frost |
 | Don’t ever take a fence down until you know why it was put up. | Frost |
-| I never dared to be radical when young
-For fear it would make me conservative when old. | Frost |
-| I would have written of me on my stone:
-I had a lover’s quarrel with the world. | Frost |
+| I never dared to be radical when young<br/>For fear it would make me conservative when old. | Frost |
+| I would have written of me on my stone:<br/>I had a lover’s quarrel with the world. | Frost |
 | Poetry is a way of taking life by the throat. | Frost |
 | The best way out is always through. | Frost |
 | The brain is a wonderful organ. It starts working the moment you get up in the morning, and does not stop until you get into the office. | Frost |
@@ -300,9 +297,7 @@ I had a lover’s quarrel with the world. | Frost |
 | Be great in act, as you have been in thought. | Shakespeare |
 | Cowards die many times before their deaths; The valiant never taste of death but once. | Shakespeare |
 | For there was never yet a philosopher that could endure the toothache patiently. | Shakespeare |
-| Glory is like a circle in the water,
-Which never ceaseth to enlarge itself
-Till by broad spreading it disperse to nought. | Shakespeare |
+| Glory is like a circle in the water,<br/>Which never ceaseth to enlarge itself<br/>Till by broad spreading it disperse to nought. | Shakespeare |
 | I had rather have a fool make me merry, than experience make me sad. | Shakespeare |
 | I wasted time, and now doth time waste me. | Shakespeare |
 | It is a wise father that knows his own child. | Shakespeare |
@@ -312,12 +307,9 @@ Till by broad spreading it disperse to nought. | Shakespeare |
 | Maids want nothing but husbands, and when they have them, they want everything. | Shakespeare |
 | Men are as the time is. | Shakespeare |
 | Nothing emboldens sin so much as mercy. | Shakespeare |
-| Praising what is lost
-Makes the remembrance dear. | Shakespeare |
-| Self-love, my liege, is not so vile a sin
-As self-neglecting. | Shakespeare |
-| So full of artless jealousy is guilt,
-It spills itself in fearing to be spilt. | Shakespeare |
+| Praising what is lost<br/>Makes the remembrance dear. | Shakespeare |
+| Self-love, my liege, is not so vile a sin<br/>As self-neglecting. | Shakespeare |
+| So full of artless jealousy is guilt,<br/>It spills itself in fearing to be spilt. | Shakespeare |
 | The robb’d that smiles steals something from the thief. | Shakespeare |
 | There is nothing either good or bad, but thinking makes it so. | Shakespeare |
 | Things done well and with a care, exempt themselves from fear. | Shakespeare |
