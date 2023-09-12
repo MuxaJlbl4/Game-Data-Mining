@@ -7,7 +7,7 @@
 - 💥 **✕ 〇 △ ✕ 〇 ▢ ▢ △** - Power Level 10
 - ❤️ **△ △ △ R2 ▢ 〇 ▢ R2** - Restore Health
 - 🧪 **▢ 〇 ✕ △ 〇 ▢ ✕ △ 〇** - Get Nitro
-- 💀 Hold **L2** + **R2** + **△** + **▢** - Suicide
+- 💀 **L2** + **R2** + **△** + **▢** - Suicide
 - 📜 **△ △ ✕ △ 〇 △ △ △** - End Credits
 - 🪙 **〇 △ 〇 ✕ △ △ 〇 ✕ R2** - Get Knarf Token
 
@@ -20,7 +20,7 @@ Works with **NTSC**, **JAP** and [prototype](https://hiddenpalace.org/Jersey_Dev
 - 💥 **A D S A D S F S** - Power Level 10
 - ❤️ **W A S A W F S F** - Restore Health
 - 🧪 **S F S D A S F D A** - Get Nitro
-- 💀 Hold **Q** + **W** + **A** + **S** + **F** - Suicide
+- 💀 **Q** + **W** + **A** + **S** + **F** - Suicide
 - 📜 **A S A D A S A S** - End Credits
 - 🪙 **W S A S D S A S D** - Get Knarf Token
 

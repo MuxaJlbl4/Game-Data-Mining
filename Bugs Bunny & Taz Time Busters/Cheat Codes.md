@@ -47,5 +47,5 @@ Works with default Player 1 controls:
 
 
 ## 🔑 Extra Keys
-- **L3** - Toggle Walk/Run Mode
+- **L3** - Toggle Walk / Run Mode
 - **R3** - Jump for 2nd Character

@@ -1,19 +1,20 @@
 # The Basement Collection Cheat Codes
+Press the specified key combo to activate cheat in the following game:
 
 ## 🍖 Meat Boy (+ Map Pack Expansion)
-+ Hold **M** + **A** + **E** + **T** - Unlock All
++ **M** + **A** + **E** + **T** - Unlock All
 
 ## 🛸 Coil
 - N/A
 
-## 🕸️ Triachnid
-+ Hold **T** + **R** + **Space** - Unlock Level Select
+## 🕷 Triachnid
++ **T** + **R** + **Space** - Unlock Level Select
 
 ## 🪐 Aether
 - N/A
 
 ## ⌚ Time Fcuk
-+ Hold **T** + **I** + **M** + **E** - Unlock All Levels
++ **T** + **I** + **M** + **E** - Unlock All Levels
 
 ## 💦 Spewer
 Type as level code and click start:
@@ -23,4 +24,4 @@ Type as level code and click start:
 - N/A
 
 ## 🖱️ A.V.G.M.
-+ Hold **A** + **G** + **Y** + **I** + **M** - 100 Clicks per Tick
++ **A** + **G** + **Y** + **I** + **M** - Add 100 Clicks per Tick
