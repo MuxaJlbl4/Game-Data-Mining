@@ -8,7 +8,8 @@
 //  Category: Game
 // File Mask: *.czp
 //  ID Bytes: 43 5A 50 00
-//   History: 1.0   Initial release
+//   History: 
+//   1.0   2023-10-16 MuLLlaH9!: Initial release
 //------------------------------------------------
 
 struct TeammateInfo
@@ -56,4 +57,4 @@ if (ExpertCampaign) SubCampaignInfo Expert;
 FSeek(FileSize()-4);
 int CheckSum;
 
-// Update checksum with CZCheckSum.1sc after editing file
+// Update checksum with CZCheckSum.1sc

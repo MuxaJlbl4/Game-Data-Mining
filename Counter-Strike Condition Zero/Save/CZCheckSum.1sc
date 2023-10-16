@@ -1,12 +1,13 @@
 //------------------------------------------------
 //--- 010 Editor v12.0.1 Script File
 //
-//      File: CZChecksum.1sc
+//      File: CZCheckSum.1sc
 //   Authors: MuLLlaH9!
 //   Version: 1.0
 //   Purpose: Update checksum for czp file
 //  Category: Checksum
-//   History: 1.0   Initial release
+//   History: 
+//   1.0   2023-10-16 MuLLlaH9!: Initial release
 //------------------------------------------------
 
 int addr = FileSize()-4;

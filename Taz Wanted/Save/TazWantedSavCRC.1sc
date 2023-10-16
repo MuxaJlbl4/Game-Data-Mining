@@ -6,7 +6,8 @@
 //   Version: 1.0
 //   Purpose: Update checksum for TazWanted.sav file
 //  Category: Checksum
-//   History: 1.0   Initial release
+//   History: 
+//   1.0   2023-10-16 MuLLlaH9!: Initial release
 //------------------------------------------------
 
 int customchecksum(int64 start, int64 size){

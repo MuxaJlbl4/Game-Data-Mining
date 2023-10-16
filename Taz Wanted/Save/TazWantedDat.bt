@@ -8,7 +8,8 @@
 //  Category: Game
 // File Mask: *.dat
 //  ID Bytes: 00 00 90 41
-//   History: 1.0   Initial release
+//   History: 
+//   1.0   2023-10-16 MuLLlaH9!: Initial release
 //------------------------------------------------
 
 struct DisplayInfo

@@ -8,7 +8,8 @@
 //  Category: Game
 // File Mask: *.sav
 //  ID Bytes: 
-//   History: 1.0   Initial release
+//   History: 
+//   1.0   2023-10-16 MuLLlaH9!: Initial release
 //------------------------------------------------
 
 
@@ -176,4 +177,4 @@ scenes Slot1;
 scenes Slot2;
 scenes Slot3;
 
-// Update checksum with TazWantedSavCRC.1sc after editing file
+// Update checksum with TazWantedSavCRC.1sc
