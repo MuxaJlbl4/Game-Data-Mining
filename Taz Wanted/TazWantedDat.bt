@@ -1,0 +1,64 @@
+//------------------------------------------------
+//--- 010 Editor v12.0.1 Binary Template
+//
+//      File: TazWantedDat.bt
+//   Authors: MuLLlaH9!
+//   Version: 1.0
+//   Purpose: Taz Wanted dat file parser
+//  Category: Game
+// File Mask: *.dat
+//  ID Bytes: 00 00 90 41
+//   History: 1.0   Initial release
+//------------------------------------------------
+
+struct DisplayInfo
+{
+    uint32 ResWidth;
+    uint32 ResHeight;
+    uint32 ZbufferDepth;
+    uint32 ColorDepth;
+    uint32 Windowed;
+    uint32 Lighting;
+    uint32 Outlines;
+    uint32 VoodooCompatibility;
+    uint32 DrawDistance;
+};
+
+struct TazControl
+{
+    uint32 Left;
+    uint32 Right;
+    uint32 Forward;
+    uint32 Backward;
+    uint32 Jump;
+    uint32 Spin;
+    uint32 TipToe;
+    uint32 Bite;
+    uint32 Rant;
+    uint32 Look;
+    uint32 CameraLeft;
+    uint32 CameraRight;
+    uint32 Pause;
+    uint32 Map;
+    uint32 KeyboardOffset;
+    uint32 ForceFeedback;
+};
+
+
+
+float Start;
+
+GUID Audio;
+
+GUID Video;
+DisplayInfo Settings;
+
+GUID Controller1;
+TazControl Keyboard1;
+TazControl Gamepad1;
+
+GUID Controller2;
+TazControl Keyboard2;
+TazControl Gamepad2;
+
+uint32 Language;

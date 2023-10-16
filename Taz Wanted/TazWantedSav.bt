@@ -1,0 +1,179 @@
+//------------------------------------------------
+//--- 010 Editor v12.0.1 Binary Template
+//
+//      File: TazWantedSav.bt
+//   Authors: MuLLlaH9!
+//   Version: 1.0
+//   Purpose: Taz Wanted sav file parser
+//  Category: Game
+// File Mask: *.sav
+//  ID Bytes: 
+//   History: 1.0   Initial release
+//------------------------------------------------
+
+
+// HighScores
+typedef struct names
+{
+    char first[4];
+    char second[4];
+    char third[4];
+    char fourth[4];
+    char fifth[4];
+};
+typedef struct scores
+{
+    names leaders;
+    byte iconRef[5];
+    FSkip(3); // Alignment
+    float time[5];
+    float exactRanking[5];
+    int rank[5];
+    int money[5];
+    byte secretItemCollected[5];
+    byte destructBonusCollected[5];
+    FSkip(2); // Alignment
+};
+typedef struct highscores
+{
+    scores ICEDOME;
+    scores SAFARI;
+    scores AQUA;
+    scores ZOOBOSS;
+    scores DEPTSTR;
+    scores MUSEUM;
+    scores CONSTRUCT;
+    scores CITYBOSS;
+    scores GHOSTTOWN;
+    scores GOLDMINE;
+    scores GRANDCANYON;
+    scores WESTBOSS;
+    scores TAZHUB;
+    scores TAZPREBOSS;
+    scores TAZBOSS;
+};
+
+// FrontendStats
+typedef struct frontendstats
+{
+    int totalPosters;
+    int postersTriggered;
+    int collectibles;
+    float destructibles;
+    int money;
+    int levelCompleted;
+    float time;
+};
+typedef struct frontend
+{
+    frontendstats ICEDOME;
+    frontendstats SAFARI;
+    frontendstats AQUA;
+    frontendstats ZOOBOSS;
+    frontendstats DEPTSTR;
+    frontendstats MUSEUM;
+    frontendstats CONSTRUCT;
+    frontendstats CITYBOSS;
+    frontendstats GHOSTTOWN;
+    frontendstats GOLDMINE;
+    frontendstats GRANDCANYON;
+    frontendstats WESTBOSS;
+    frontendstats TAZHUB;
+    frontendstats TAZPREBOSS;
+    frontendstats TAZBOSS;
+};
+
+// Slot
+typedef struct levelSaveInfo
+{
+    int completed;
+    byte sandwiches[120];
+    int pickupsCollected;
+    byte posters[12];
+    int postersCollected;
+    int secretItemCollected;
+    int bounty;
+    int objectsDestroyed;
+    int destructBonusCollected;
+    int bonusgameOption;
+    float time;
+};
+typedef struct saveSlot
+{
+    int inUse;
+    int difficulty;
+    time64_t creation;
+    int bounty;
+    int telephoneBountyCounter;
+    int lastIcon;
+    char lastName[4];
+    int a;
+};
+typedef struct scenes
+{
+    levelSaveInfo LANGUAGESELECT;
+    levelSaveInfo FRONTEND;
+    levelSaveInfo PLAYPEN;
+    levelSaveInfo ZOOHUB;
+    levelSaveInfo ICEDOME;
+    levelSaveInfo SAFARI;
+    levelSaveInfo AQUA;
+    levelSaveInfo ZOOBOSS;
+    levelSaveInfo CITYHUB;
+    levelSaveInfo DEPTSTR;
+    levelSaveInfo MUSEUM;
+    levelSaveInfo CONSTRUCT;
+    levelSaveInfo CITYBOSS;
+    levelSaveInfo WILDWESTHUB;
+    levelSaveInfo GHOSTTOWN;
+    levelSaveInfo GOLDMINE;
+    levelSaveInfo GRANDCANYON;
+    levelSaveInfo WESTBOSS;
+    levelSaveInfo TAZHUB;
+    levelSaveInfo TAZPREBOSS;
+    levelSaveInfo TAZBOSS;
+    levelSaveInfo MUSEUMVEHICLERACE;
+    levelSaveInfo GRANDCVEHICLERACE;
+    levelSaveInfo DEPTSTRVEHICLERACE;
+    levelSaveInfo DESTRUCTIONAQUA;
+    levelSaveInfo DESTRUCTIONCONSTRUCT;
+    levelSaveInfo DESTRUCTIONTASMANIA;
+    levelSaveInfo ICEDOMERACE;
+    levelSaveInfo GOLDMINERACE;
+    levelSaveInfo SAFARIRACE;
+    /*
+    levelSaveInfo MAP;
+    levelSaveInfo TESTMAP;
+    levelSaveInfo NOSCENE;
+    levelSaveInfo OBJECTVIEWONLY;
+    levelSaveInfo TAZINTROCUTSCENE;
+    levelSaveInfo STARTGAMEINTRO;
+    levelSaveInfo DEMODEPT;
+    levelSaveInfo ENDOFSCENES;
+    */
+    
+    saveSlot slot;
+};
+
+
+
+uint32 CRC <format=hex>;
+uchar musicVolume;
+uchar sfxVolume;
+uint16 vibration;
+uint32 scrXadj;
+uint32 scrYadj;
+uint32 subtitles;
+uint32 audioMode;
+
+highscores HighScores;
+
+frontend Frontend;
+
+byte galleryFlags[12];
+
+scenes Slot1;
+scenes Slot2;
+scenes Slot3;
+
+// Update checksum with TazWantedSavCRC.1sc after editing file
