@@ -11,8 +11,8 @@ Personal collection of interesting info, extracted from games by reverse enginee
 - 🏁 [**TrackMania**](TrackMania/Cheat%20Codes.md)
 
 ## Parsed Save Data
-- 🔫 [**Counter-Strike: Condition Zero**](Counter-Strike%20Condition%20Zero/Data.md)
-- ⚠️ [**Taz: Wanted**](Taz%20Wanted/Data.md)
+- 🔫 [**Counter-Strike: Condition Zero**](Counter-Strike%20Condition%20Zero/Save)
+- ⚠️ [**Taz: Wanted**](Taz%20Wanted/Save)
 
 ## Other
 - ⏱️ [**TrackMania** Author Times (Nintendo)](TrackMania/Author%20Times%20Nintendo.md)
