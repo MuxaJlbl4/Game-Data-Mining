@@ -29,6 +29,13 @@ Count of spawn points for every official Counter-Strike map (GoldSrc)
 | ❄️ | de_vostok_cz | 16 | 16 |
 
 
+## Counter-Strike Xbox
+
+|    | Map | T | CT |
+| -- | --- | - | -- |
+| 🏦 | cs_miami | 16 | 16 |
+
+
 ## Counter-Strike 1.6
 
 |    | Map | T | CT |
@@ -99,7 +106,7 @@ Count of spawn points for every official Counter-Strike map (GoldSrc)
 | 🏞️ | as_forest | 10 | 10 |
 | 🛟 | cs_docks | 10 | 11 |
 | 🛤 | de_railroad | 10 | 10 |
-| 🥬 | es_trinity | 10 | 10 |
+| ⛪ | es_trinity | 10 | 10 |
 
 
 ## Beta 6.1
