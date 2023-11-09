@@ -3,15 +3,16 @@
 //
 //      File: CZCheckSum.1sc
 //   Authors: MuLLlaH9!
-//   Version: 1.1
+//   Version: 1.2
 //   Purpose: Update checksum for czp file
 //  Category: Checksum
 //   History: 
+//   1.2   2023-11-10 MuLLlaH9!: Typo fix
 //   1.1   2023-11-08 MuLLlaH9!: Additional int fix
 //   1.0   2023-10-16 MuLLlaH9!: Initial release
 //------------------------------------------------
 
-// Clear int after end of string
+// Clear int after the string
 int offset = FindFirst((byte)0x00, 0, 0, 0, 0, 1, 0x08) + 1;
 WriteInt(offset, (int)0x00);
 

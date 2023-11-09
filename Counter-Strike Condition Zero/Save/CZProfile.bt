@@ -3,58 +3,81 @@
 //
 //      File: CZProfile.bt
 //   Authors: MuLLlaH9!
-//   Version: 1.0
+//   Version: 1.1
 //   Purpose: Counter-Strike: Condition Zero profile data parser
 //  Category: Game
 // File Mask: *.czp
 //  ID Bytes: 43 5A 50 00
 //   History: 
+//   1.1   2023-11-10 MuLLlaH9!: Structure update
 //   1.0   2023-10-16 MuLLlaH9!: Initial release
 //------------------------------------------------
 
-struct TeammateInfo
+enum <byte> SKILL
+{
+    Easy,
+    Normal,
+    Hard,
+    Expert
+};
+
+struct TEAMMATE
 {
     string Name;
 };
 
-struct LevelInfo
+struct TEAM
 {
-    string MapName;
-    byte Completed;
-};
-
-struct SubCampaignInfo
-{
-    byte Points;
-
     byte TeamSize;
-    if (TeamSize) TeammateInfo Teammates[TeamSize] <optimize=false>;
-
-    byte Levels;
-    LevelInfo Level[Levels] <optimize=false>;
-    
-    string CurrentMapName;
-
-    byte ReputationPoints;
+    if (TeamSize)
+        TEAMMATE TeamMate[TeamSize] <optimize=false>;
 };
 
-char Header[4];
-int SubCampaigns;
-string ProfileName;
-int Data;
-byte CurrentDifficulty;
-byte Medals[SubCampaigns];
+struct MISSION
+{
+    string  MapName;
+    byte    Completed;
+};
 
-byte EasyCampaign;
-if (EasyCampaign) SubCampaignInfo Easy;
-byte NormalCampaign;
-if (NormalCampaign) SubCampaignInfo Normal;
-byte HardCampaign;
-if (HardCampaign) SubCampaignInfo Hard;
-byte ExpertCampaign;
-if (ExpertCampaign) SubCampaignInfo Expert;
+struct TRIPLET
+{
+    MISSION Mission[3] <optimize=false>;
+};
 
-FSeek(FileSize()-4);
+struct CAREER
+{
+    byte Missions;
+    if (Missions)
+        TRIPLET Triplet[Missions/3] <optimize=false>;
+};
+
+struct CAMPAIGN
+{
+    byte CampaignStarted;
+    if (CampaignStarted)
+    {
+        byte    ReputationPoints;
+        TEAM    Team;
+        CAREER  Career;
+        string  CurrentMapName;
+        byte    PrevReputationPoints;
+    }
+};
+
+char    Header[4];
+int     Campaigns;
+string  ProfileName;
+int     Data;
+SKILL   CurrentDifficulty;
+byte    Medals[Campaigns];
+
+CAMPAIGN Easy;
+CAMPAIGN Normal;
+CAMPAIGN Hard;
+CAMPAIGN Expert;
+
+int ReservedSize;
+int Reserved[ReservedSize];
 int CheckSum;
 
 // Update checksum with CZCheckSum.1sc
