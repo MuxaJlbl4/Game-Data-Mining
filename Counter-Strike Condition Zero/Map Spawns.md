@@ -87,8 +87,8 @@ Count of spawn points for every official Counter-Strike map (GoldSrc)
 
 |    | Map | T | CT |
 | -- | --- | - | -- |
-| 🌆 | as_highrise | 17 | 17 |
-| 🐫 | cs_arabstreets | 10 | 10 |
+| 🏨 | as_highrise | 17 | 17 |
+| ☣️ | cs_arabstreets | 10 | 10 |
 | 🚀 | de_foption | 10 | 10 |
 
 
@@ -114,7 +114,7 @@ Count of spawn points for every official Counter-Strike map (GoldSrc)
 |    | Map | T | CT |
 | -- | --- | - | -- |
 | 🛶 | as_riverside | 10 | 10 |
-| 🐍 | de_fang | 10 | 10 |
+| ✨ | de_fang | 10 | 10 |
 | 🚇 | es_frantic | 10 | 10 |
 | ⛓ | es_jail | 10 | 10 |
 
@@ -128,7 +128,7 @@ Count of spawn points for every official Counter-Strike map (GoldSrc)
 | 🇮🇶 | cs_iraq | 10 | 10 |
 | 🚢 | cs_ship | 10 | 12 |
 | 🚉 | cs_station | 10 | 10 |
-| 🧱 | cs_tire | 10 | 10 |
+| 🏫 | cs_tire | 10 | 10 |
 
 
 ## Beta 3.1
