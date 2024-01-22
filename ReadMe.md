@@ -16,6 +16,6 @@ Personal collection of interesting info, extracted from games by reverse enginee
 
 ## Other
 - 🗺️ [**Counter-Strike** Spawns (GoldSrc)](Counter-Strike%20Condition%20Zero/Map%20Spawns.md)
-- 🌀 [**Portal** Challenge Tables (+Mods)](Portal/Challenges.md)
+- 🍰 [**Portal** Challenge Tables (+Mods)](Portal/Challenges.md)
 - ⏱️ [**TrackMania** Author Times (Nintendo)](TrackMania/Author%20Times%20Nintendo.md)
 - 🎹 [**Соло на Клавиатуре** Список Цитат (**Keyboard Solo** Quotes List)](Keyboard%20Solo/ReadMe.md)

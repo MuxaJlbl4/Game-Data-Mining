@@ -6,7 +6,7 @@ Bonus challenge targets for:
 - [Gamma Energy](#gamma-energy)
 - [Portal: Cooperative](#portal-cooperative)
 - [Portal Pro](#portal-pro)
-- [Misc](#misc)
+- [Maps](#maps)
 
 
 # [Portal](https://store.steampowered.com/app/400)
@@ -275,23 +275,35 @@ Bonus challenge targets for:
 | **Ladder** | 13 | 12 | 10 |
 
 
-# Misc
+# Maps
 
 ### Portals
 | 🌀 | 🥉 | 🥈 | 🥇 |
 | --- | :-: | :-: | :-: |
-| [Affinity](https://gamebanana.com/mods/141260) | 30 | 26 | 21 |
-| [Aperture Techdemo 01](https://www.moddb.com/mods/aperture) | 7 | 5 | 2 |
+| **[Affinity](https://gamebanana.com/mods/141260)** | 30 | 26 | 21 |
+| **[Aperture Techdemo 01](https://www.moddb.com/mods/aperture)** | 7 | 5 | 2 |
+| **[BlueStrike](https://gamebanana.com/mods/141269)** | 11 | 9 | 8 |
+| **[Conundrum](https://www.moddb.com/games/portal/addons/conundrum)** | 28 | 24 | 20 |
+| **[LoveGLaDOS](https://gamebanana.com/mods/141313)** | 33 | 28 | 25 |
+| **[Test Chamber 74](https://www.moddb.com/games/portal/addons/test-chamber-74)** | 30 | 25 | 20 |
 
 ### Steps
 | 👣 | 🥉 | 🥈 | 🥇 |
 | --- | :-: | :-: | :-: |
-| [Affinity](https://gamebanana.com/mods/141260) | 320 | 310 | 300 |
-| [Aperture Techdemo 01](https://www.moddb.com/mods/aperture) | 140 | 100 | 70 |
+| **[Affinity](https://gamebanana.com/mods/141260)** | 320 | 310 | 300 |
+| **[Aperture Techdemo 01](https://www.moddb.com/mods/aperture)** | 140 | 100 | 70 |
+| **[BlueStrike](https://gamebanana.com/mods/141269)** | 260 | 240 | 220 |
+| **[Conundrum](https://www.moddb.com/games/portal/addons/conundrum)** | 350 | 250 | 175 |
+| **[LoveGLaDOS](https://gamebanana.com/mods/141313)** | 750 | 500 | 300 |
+| **[Test Chamber 74](https://www.moddb.com/games/portal/addons/test-chamber-74)** | 200 | 150 | 100 |
 
 ### Time
 | ⏱️ | 🥉 | 🥈 | 🥇 |
 | --- | :-: | :-: | :-: |
-| [Affinity](https://gamebanana.com/mods/141260) | 5:00 | 4:40 | 4:00 |
-| [Aperture Techdemo 01](https://www.moddb.com/mods/aperture) | 1:00 | 0:45 | 0:35 |
+| **[Affinity](https://gamebanana.com/mods/141260)** | 5:00 | 4:40 | 4:00 |
+| **[Aperture Techdemo 01](https://www.moddb.com/mods/aperture/downloads/techdemo-01)** | 1:00 | 0:45 | 0:35 |
+| **[BlueStrike](https://gamebanana.com/mods/141269)** | 2:10 | 2:00 | 1:50 |
+| **[Conundrum](https://www.moddb.com/games/portal/addons/conundrum)** | 5:00 | 4:00 | 3:00 |
+| **[LoveGLaDOS](https://gamebanana.com/mods/141313)** | 4:40 | 3:40 | 3:15 |
+| **[Test Chamber 74](https://www.moddb.com/games/portal/addons/test-chamber-74)** | 2:30 | 2:10 | 1:40 |
 
