@@ -6,7 +6,7 @@ Bonus challenge targets for:
 - [Gamma Energy](#gamma-energy)
 - [Portal: Cooperative](#portal-cooperative)
 - [Portal Pro](#portal-pro)
-- [Maps](#maps)
+- [Custom Maps](#custom-maps)
 
 
 # [Portal](https://store.steampowered.com/app/400)
@@ -275,35 +275,100 @@ Bonus challenge targets for:
 | **Ladder** | 13 | 12 | 10 |
 
 
-# Maps
+# Custom Maps
 
 ### Portals
 | 🌀 | 🥉 | 🥈 | 🥇 |
 | --- | :-: | :-: | :-: |
+| **[Accident Prone](https://gamebanana.com/mods/141258)** | 30 | 20 | 16 |
 | **[Affinity](https://gamebanana.com/mods/141260)** | 30 | 26 | 21 |
 | **[Aperture Techdemo 01](https://www.moddb.com/mods/aperture)** | 7 | 5 | 2 |
 | **[BlueStrike](https://gamebanana.com/mods/141269)** | 11 | 9 | 8 |
-| **[Conundrum](https://www.moddb.com/games/portal/addons/conundrum)** | 28 | 24 | 20 |
+| **[Conundrum](https://gamebanana.com/mods/141279)** | 28 | 24 | 20 |
+| **[FMS 04](https://gamebanana.com/mods/141297)** | 8 | 6 | 5 |
+| **[FMS 05](https://gamebanana.com/mods/141297)** | 5 | 4 | 2 |
+| **[FMS 06](https://gamebanana.com/mods/141297)** | 10 | 9 | 7 |
+| **[FMS 07](https://gamebanana.com/mods/141297)** | 5 | 4 | 3 |
+| **[Half-Velocity](https://gamebanana.com/mods/141305)** | 8 | 7 | 6 |
+| **[Hub](https://gamebanana.com/mods/141308)** | 27 | 32 | 31 |
 | **[LoveGLaDOS](https://gamebanana.com/mods/141313)** | 33 | 28 | 25 |
-| **[Test Chamber 74](https://www.moddb.com/games/portal/addons/test-chamber-74)** | 30 | 25 | 20 |
+| **[Myst One](https://gamebanana.com/mods/141324)** | 11 | 9 | 7 |
+| **[Myst One Advanced](https://gamebanana.com/mods/141324)** | 22 | 11 | 9 |
+| **[Portal 2: Test 02](https://gamebanana.com/mods/141335)** | 6 | 3 | 2 |
+| **[Portal 2: Test 06](https://gamebanana.com/mods/379010)** | 8 | 7 | 6 |
+| **[Remmizchamber1](https://gamebanana.com/mods/141358)** | 22 | 21 | 19 |
+| **[Remmizchamber2](https://gamebanana.com/mods/141359)** | 23 | 19 | 15 |
+| **[Ren_Test1](https://gamebanana.com/mods/141361)** | 10 | 8 | 7 |
+| **[Ren_Test2](https://gamebanana.com/mods/141361)** | 12 | 9 | 6 |
+| **[Ren_Test3](https://gamebanana.com/mods/141361)** | 17 | 15 | 13 |
+| **[Shmitzchamber 01](https://gamebanana.com/mods/141363)** | 40 | 34 | 28 |
+| **[Skyline Challenge](https://gamebanana.com/mods/141344)** | 60 | 50 | 35 |
+| **[Test Chamber 74](https://gamebanana.com/mods/141375)** | 30 | 25 | 20 |
+| **[The Mandrill Maze](https://gamebanana.com/mods/396806)** | 4 | 2 | 0 |
+| **[X06 Chamber 13](https://gamebanana.com/mods/396419)** | 9 | 5 | 4 |
+| **[X06 Chamber 16](https://gamebanana.com/mods/396419)** | 9 | 4 | 2 |
+| **[X06 Chamber 18](https://gamebanana.com/mods/396419)** | 30 | 25 | 16 |
 
 ### Steps
 | 👣 | 🥉 | 🥈 | 🥇 |
 | --- | :-: | :-: | :-: |
+| **[Accident Prone](https://gamebanana.com/mods/141258)** | 400 | 300 | 250 |
 | **[Affinity](https://gamebanana.com/mods/141260)** | 320 | 310 | 300 |
 | **[Aperture Techdemo 01](https://www.moddb.com/mods/aperture)** | 140 | 100 | 70 |
 | **[BlueStrike](https://gamebanana.com/mods/141269)** | 260 | 240 | 220 |
-| **[Conundrum](https://www.moddb.com/games/portal/addons/conundrum)** | 350 | 250 | 175 |
+| **[Conundrum](https://gamebanana.com/mods/141279)** | 350 | 250 | 175 |
+| **[FMS 04](https://gamebanana.com/mods/141297)** | 50 | 45 | 35 |
+| **[FMS 05](https://gamebanana.com/mods/141297)** | 45 | 40 | 35 |
+| **[FMS 06](https://gamebanana.com/mods/141297)** | 150 | 140 | 125 |
+| **[FMS 07](https://gamebanana.com/mods/141297)** | 57 | 47 | 40 |
+| **[Half-Velocity](https://gamebanana.com/mods/141305)** | 70 | 60 | 50 |
+| **[Hub](https://gamebanana.com/mods/141308)** | 364 | 333 | 302 |
 | **[LoveGLaDOS](https://gamebanana.com/mods/141313)** | 750 | 500 | 300 |
-| **[Test Chamber 74](https://www.moddb.com/games/portal/addons/test-chamber-74)** | 200 | 150 | 100 |
+| **[Myst One](https://gamebanana.com/mods/141324)** | 200 | 100 | 50 |
+| **[Myst One Advanced](https://gamebanana.com/mods/141324)** | 200 | 100 | 50 |
+| **[Portal 2: Test 02](https://gamebanana.com/mods/141335)** | 0 | 0 | 0 |
+| **[Portal 2: Test 06](https://gamebanana.com/mods/379010)** | 160 | 140 | 100 |
+| **[Remmizchamber1](https://gamebanana.com/mods/141358)** | 250 | 230 | 220 |
+| **[Remmizchamber2](https://gamebanana.com/mods/141359)** | 110 | 105 | 95 |
+| **[Ren_Test1](https://gamebanana.com/mods/141361)** | 62 | 52 | 42 |
+| **[Ren_Test2](https://gamebanana.com/mods/141361)** | 310 | 280 | 240 |
+| **[Ren_Test3](https://gamebanana.com/mods/141361)** | 190 | 175 | 160 |
+| **[Shmitzchamber 01](https://gamebanana.com/mods/141363)** | 420 | 310 | 200 |
+| **[Skyline Challenge](https://gamebanana.com/mods/141344)** | 1000 | 750 | 600 |
+| **[Test Chamber 74](https://gamebanana.com/mods/141375)** | 200 | 150 | 100 |
+| **[The Mandrill Maze](https://gamebanana.com/mods/396806)** | 30 | 20 | 10 |
+| **[X06 Chamber 13](https://gamebanana.com/mods/396419)** | 30 | 20 | 10 |
+| **[X06 Chamber 16](https://gamebanana.com/mods/396419)** | 70 | 55 | 40 |
+| **[X06 Chamber 18](https://gamebanana.com/mods/396419)** | 150 | 120 | 85 |
 
 ### Time
 | ⏱️ | 🥉 | 🥈 | 🥇 |
 | --- | :-: | :-: | :-: |
+| **[Accident Prone](https://gamebanana.com/mods/141258)** | 7:00 | 4:30 | 3:00 |
 | **[Affinity](https://gamebanana.com/mods/141260)** | 5:00 | 4:40 | 4:00 |
 | **[Aperture Techdemo 01](https://www.moddb.com/mods/aperture/downloads/techdemo-01)** | 1:00 | 0:45 | 0:35 |
 | **[BlueStrike](https://gamebanana.com/mods/141269)** | 2:10 | 2:00 | 1:50 |
-| **[Conundrum](https://www.moddb.com/games/portal/addons/conundrum)** | 5:00 | 4:00 | 3:00 |
+| **[Conundrum](https://gamebanana.com/mods/141279)** | 5:00 | 4:00 | 3:00 |
+| **[FMS 04](https://gamebanana.com/mods/141297)** | 0:60 | 0:40 | 0:20 |
+| **[FMS 05](https://gamebanana.com/mods/141297)** | 0:29 | 0:23 | 0:19 |
+| **[FMS 06](https://gamebanana.com/mods/141297)** | 0:57 | 0:49 | 0:45 |
+| **[FMS 07](https://gamebanana.com/mods/141297)** | 0:32 | 0:29 | 0:25 |
+| **[Half-Velocity](https://gamebanana.com/mods/141305)** | 1:00 | 0:45 | 0:30 |
+| **[Hub](https://gamebanana.com/mods/141308)** | 6:36 | 5:42 | 4:48 |
 | **[LoveGLaDOS](https://gamebanana.com/mods/141313)** | 4:40 | 3:40 | 3:15 |
-| **[Test Chamber 74](https://www.moddb.com/games/portal/addons/test-chamber-74)** | 2:30 | 2:10 | 1:40 |
-
+| **[Myst One](https://gamebanana.com/mods/141324)** | 3:00 | 1:00  | 0:50 |
+| **[Myst One Advanced](https://gamebanana.com/mods/141324)** | 3:00 | 1:00 | 0:50 |
+| **[Portal 2: Test 02](https://gamebanana.com/mods/141335)** | 1:00 | 0:50 | 0:35 |
+| **[Portal 2: Test 06](https://gamebanana.com/mods/379010)** | 1:25 | 1:10 | 1:00 |
+| **[Remmizchamber1](https://gamebanana.com/mods/141358)** | 2:20 | 2:08 | 1:55 |
+| **[Remmizchamber2](https://gamebanana.com/mods/141359)** | 1:36 | 1:30 | 1:26 |
+| **[Ren_Test1](https://gamebanana.com/mods/141361)** | 1:00 | 0:50 | 0:40 |
+| **[Ren_Test2](https://gamebanana.com/mods/141361)** | 3:20 | 3:00 | 2:40 |
+| **[Ren_Test3](https://gamebanana.com/mods/141361)** | 2:45 | 2:25 | 2:15 |
+| **[Shmitzchamber 01](https://gamebanana.com/mods/141363)** | 7:45 | 5:30 | 3:20 |
+| **[Skyline Challenge](https://gamebanana.com/mods/141344)** | 12:30 | 10:00 | 7:30 |
+| **[Test Chamber 74](https://gamebanana.com/mods/141375)** | 2:30 | 2:10 | 1:40 |
+| **[The Mandrill Maze](https://gamebanana.com/mods/396806)** | 2:40 | 2:00 | 1:17 |
+| **[X06 Chamber 13](https://gamebanana.com/mods/396419)** | 0:40 | 0:30 | 0:19 |
+| **[X06 Chamber 16](https://gamebanana.com/mods/396419)** | 1:10 | 1:00 | 0:52 |
+| **[X06 Chamber 18](https://gamebanana.com/mods/396419)** | 2:10 | 2:00 | 1:13 |
