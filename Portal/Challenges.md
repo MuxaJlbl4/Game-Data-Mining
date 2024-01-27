@@ -285,6 +285,7 @@ Bonus challenge targets for:
 | **[Aperture Techdemo 01](https://www.moddb.com/mods/aperture)** | 7 | 5 | 2 |
 | **[BlueStrike](https://gamebanana.com/mods/141269)** | 11 | 9 | 8 |
 | **[Conundrum](https://gamebanana.com/mods/141279)** | 28 | 24 | 20 |
+| **[Floccinauci 04](https://www.moddb.com/mods/portal-floccinauci)** | 36 | 32 | 28 |
 | **[FMS 04](https://gamebanana.com/mods/141297)** | 8 | 6 | 5 |
 | **[FMS 05](https://gamebanana.com/mods/141297)** | 5 | 4 | 2 |
 | **[FMS 06](https://gamebanana.com/mods/141297)** | 10 | 9 | 7 |
@@ -317,6 +318,7 @@ Bonus challenge targets for:
 | **[Aperture Techdemo 01](https://www.moddb.com/mods/aperture)** | 140 | 100 | 70 |
 | **[BlueStrike](https://gamebanana.com/mods/141269)** | 260 | 240 | 220 |
 | **[Conundrum](https://gamebanana.com/mods/141279)** | 350 | 250 | 175 |
+| **[Floccinauci 04](https://www.moddb.com/mods/portal-floccinauci)** | 330 | 270 | 255 |
 | **[FMS 04](https://gamebanana.com/mods/141297)** | 50 | 45 | 35 |
 | **[FMS 05](https://gamebanana.com/mods/141297)** | 45 | 40 | 35 |
 | **[FMS 06](https://gamebanana.com/mods/141297)** | 150 | 140 | 125 |
@@ -349,6 +351,7 @@ Bonus challenge targets for:
 | **[Aperture Techdemo 01](https://www.moddb.com/mods/aperture/downloads/techdemo-01)** | 1:00 | 0:45 | 0:35 |
 | **[BlueStrike](https://gamebanana.com/mods/141269)** | 2:10 | 2:00 | 1:50 |
 | **[Conundrum](https://gamebanana.com/mods/141279)** | 5:00 | 4:00 | 3:00 |
+| **[Floccinauci 04](https://www.moddb.com/mods/portal-floccinauci)** | 4:40 | 4:10 | 3:20 |
 | **[FMS 04](https://gamebanana.com/mods/141297)** | 1:00 | 0:40 | 0:20 |
 | **[FMS 05](https://gamebanana.com/mods/141297)** | 0:29 | 0:23 | 0:19 |
 | **[FMS 06](https://gamebanana.com/mods/141297)** | 0:57 | 0:49 | 0:45 |
