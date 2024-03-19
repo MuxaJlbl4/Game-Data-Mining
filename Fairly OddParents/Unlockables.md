@@ -2,7 +2,8 @@
 
 ## Shadow Showdown
 
-### PlayStation 2 (EU) & GameCube (US)
+### Unlockables
+
 | 🔢 | 🎞️ | 🎬 |
 | :-: | --- | --- |
 | **1** | Scene from the **Odd Jobs** | [S03 E10](https://fairlyoddparents.fandom.com/wiki/Odd_Jobs) |
@@ -12,7 +13,7 @@
 | **5** | Scene from the **The Secret Origin of Denzel Crocker!** | [S03 E21](https://fairlyoddparents.fandom.com/wiki/The_Secret_Origin_of_Denzel_Crocker!) |
 | **6** | Song from the **Chip Off The Old Chip** | [S03 E30](https://fairlyoddparents.fandom.com/wiki/Chip_Off_The_Old_Chip) |
 
-### PlayStation 2 (US)
+### Cheats
 
 | 🔢 | 🎞️ | 💬 |
 | :-: | --- | --- |
