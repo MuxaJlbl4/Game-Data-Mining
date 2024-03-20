@@ -13,16 +13,16 @@
 | **5** | Scene from the **The Secret Origin of Denzel Crocker!** | [S03 E21](https://fairlyoddparents.fandom.com/wiki/The_Secret_Origin_of_Denzel_Crocker!) |
 | **6** | Song from the **Chip Off The Old Chip** | [S03 E30](https://fairlyoddparents.fandom.com/wiki/Chip_Off_The_Old_Chip) |
 
-### Cheats
+### Cheats (PS2 NTSC only)
 
-| 🔢 | 🎞️ | 💬 |
-| :-: | --- | --- |
-| **1** | Interview with **Butch Hartman** | What advice would you give to an aspring cartoonist? |
-| **2** | Interview with **Butch Hartman** | How did you come up with the idea for The Fairly OddParents? |
-| **3** | Interview with **Daran Norris** | Is it freaky playing a game with your voice in it? |
-| **4** | Interview with **Daran Norris** | How did you come up with the voice for Cosmo? |
-| **5** | Interview with **Suzanne Blakeslee** | How did you come up with the voice of Wanda? |
-| **6** | Interview with **Steve Marmel** | Who are your influences as a writer? |
+| 🔢 | 🎮 | 🎞️ | 💬 |
+| :-: | :-: | --- | --- |
+| **1** | `🡒 🡓 🡐 🡑 R1 🡐 R1 L1` | Interview with **Butch Hartman** | What advice would you give to an aspring cartoonist? |
+| **2** | `🡒 🡓 🡐 🡑 🡓 R1 R1 🡒` | Interview with **Butch Hartman** | How did you come up with the idea for The Fairly OddParents? |
+| **3** | `🡒 🡓 🡐 🡑 🡑 L1 🡓 L1` | Interview with **Daran Norris** | Is it freaky playing a game with your voice in it? |
+| **4** | `🡒 🡓 🡐 🡑 L1 L1 🡒 R1` | Interview with **Daran Norris** | How did you come up with the voice for Cosmo? |
+| **5** | `🡒 🡓 🡐 🡑 🡐 L1 R1 🡓` | Interview with **Suzanne Blakeslee** | How did you come up with the voice of Wanda? |
+| **6** | `🡒 🡓 🡐 🡑 🡒 R1 🡑 L1` | Interview with **Steve Marmel** | Who are your influences as a writer? |
 
 ## Breakin' Da Rules
 
