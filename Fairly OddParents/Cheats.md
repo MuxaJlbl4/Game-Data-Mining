@@ -34,3 +34,8 @@
 - 🛍️ **`🡐 🡒 🡐 🡒 R 🡐 🡒 L`** - Unlock all shop items
 - 🎞️ **`🡐 🡒 🡐 🡒 🡑 🡑 R L`**  - Unlock all videos
 - 🖼️ **`🡐 🡒 🡐 🡒 🡑 🡓 R R`** - Unlock all galleries
+
+## Misc
+
+- 🌃 **`▢`** - Toggle main menu theme (PS2)
+- 🌇 **`X`** - Toggle main menu theme (GCN)
