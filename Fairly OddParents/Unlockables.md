@@ -19,12 +19,12 @@ Only for PS2 NTSC (main menu):
 
 | 🔢 | 🎮 | 🎞️ | 💬 |
 | :-: | --- | --- | --- |
-| **1**	| `🡒 🡓 🡐 🡑 R1 🡐 R1 L1`	| **Butch Hartman** interview		| What advice would you give to an aspring cartoonist?			|
-| **2**	| `🡒 🡓 🡐 🡑 🡓 R1 R1 🡒`	| **Butch Hartman** interview		| How did you come up with the idea for The Fairly OddParents?	|
-| **3**	| `🡒 🡓 🡐 🡑 🡑 L1 🡓 L1`	| **Daran Norris** interview		| Is it freaky playing a game with your voice in it?			|
-| **4**	| `🡒 🡓 🡐 🡑 L1 L1 🡒 R1`	| **Daran Norris** interview 		| How did you come up with the voice for Cosmo?					|
-| **5**	| `🡒 🡓 🡐 🡑 🡐 L1 R1 🡓`	| **Suzanne Blakeslee** interview	| How did you come up with the voice of Wanda?					|
-| **6**	| `🡒 🡓 🡐 🡑 🡒 R1 🡑 L1`	| **Steve Marmel** interview		| Who are your influences as a writer?							|
+| **1**	| **`→ ↓ ← ↑ R1 ← R1 L1`**	| **Butch Hartman** interview		| What advice would you give to an aspring cartoonist?			|
+| **2**	| **`→ ↓ ← ↑ ↓ R1 R1 →`**	| **Butch Hartman** interview		| How did you come up with the idea for The Fairly OddParents?	|
+| **3**	| **`→ ↓ ← ↑ ↑ L1 ↓ L1`**	| **Daran Norris** interview		| Is it freaky playing a game with your voice in it?			|
+| **4**	| **`→ ↓ ← ↑ L1 L1 → R1`**	| **Daran Norris** interview 		| How did you come up with the voice for Cosmo?					|
+| **5**	| **`→ ↓ ← ↑ ← L1 R1 ↓`**	| **Suzanne Blakeslee** interview	| How did you come up with the voice of Wanda?					|
+| **6**	| **`→ ↓ ← ↑ → R1 ↑ L1`**	| **Steve Marmel** interview		| Who are your influences as a writer?							|
 
 ## Breakin' Da Rules
 
