@@ -4,8 +4,8 @@
 
 ### Unlockables
 
-| 🔢 | 🎞️ | ✂ | 🎬 |
-| :-: | --- | --- | --- |
+| 🔢	| 🎞️	| ✂	| 🎬	|
+| :-:	| ---	| ---	| ---	|
 | **1**	| **Odd Jobs**								| Scene	| [S03 E10](https://fairlyoddparents.fandom.com/wiki/Odd_Jobs)								|
 | **2**	| **Scary Godparents**						| Song	| [S02 E13](https://fairlyoddparents.fandom.com/wiki/Scary_Godparents)						|
 | **3**	| **Pipe Down!**							| Scene	| [S03 E24](https://fairlyoddparents.fandom.com/wiki/Pipe_Down!)							|
@@ -17,8 +17,8 @@
 
 Only for PS2 NTSC (main menu):
 
-| 🔢 | 🎮 | 🎞️ | 💬 |
-| :-: | --- | --- | --- |
+| 🔢	| 🎮	| 🎞️	| 💬	|
+| :-:	| ---	| ---	| ---	|
 | **1**	| **`→ ↓ ← ↑ R1 ← R1 L1`**	| **Butch Hartman** interview		| What advice would you give to an aspring cartoonist?			|
 | **2**	| **`→ ↓ ← ↑ ↓ R1 R1 →`**	| **Butch Hartman** interview		| How did you come up with the idea for The Fairly OddParents?	|
 | **3**	| **`→ ↓ ← ↑ ↑ L1 ↓ L1`**	| **Daran Norris** interview		| Is it freaky playing a game with your voice in it?			|
@@ -30,30 +30,30 @@ Only for PS2 NTSC (main menu):
 
 ### Original (US)
 
-| 🔢 | 🔠 | 🎞️ | ✂ | 🎬 |
-| :-: | --- | --- | --- | --- |
-| **1**	| **Icky Vicky**			| **Boys in the Band**		| Song			| [S02 E01](https://fairlyoddparents.fandom.com/wiki/Boys_in_the_Band)			|
-| **2**	| **I'm your father**		| **Abra-Catastrophe!**		| Scene			| [S03 E12](https://fairlyoddparents.fandom.com/wiki/Abra-Catastrophe!)			|
-| **3**	| **Shiny Teeth**			| **Shiny Teeth**			| Song			| [S03 E03](https://fairlyoddparents.fandom.com/wiki/Shiny_Teeth)				|
-| **4**	| **Arachnid kid**			| **Abra-Catastrophe!**		| Scene			| [S03 E12](https://fairlyoddparents.fandom.com/wiki/Abra-Catastrophe!)			|
-| **5**	| **Vicky Free Summer**		| **MicroPhony**			| Song			| [S03 E05](https://fairlyoddparents.fandom.com/wiki/MicroPhony)				|
-| **6**	| **Dinosaur park**			| **Abra-Catastrophe!**		| Scene			| [S03 E12](https://fairlyoddparents.fandom.com/wiki/Abra-Catastrophe!)			|
-| **7**	| **Good To Be A Man**		| **Love Struck!**			| Song			| [S03 E07](https://fairlyoddparents.fandom.com/wiki/Love_Struck!)				|
-| **8**	| **Alarm bomb**			| **Action Packed**			| Scene			| [S02 E05](https://fairlyoddparents.fandom.com/wiki/Action_Packed)				|
-| **9**	| **Mighty Mom & Dyno Dad**	| **Mighty Mom & Dyno Dad**	| Full (PS2)	| [S02 E15](https://fairlyoddparents.fandom.com/wiki/Mighty_Mom_and_Dyno_Dad)	|
-| **9**	| **Boy Toy**				| **Boy Toy**				| Full (Xbox)	| [S02 E03](https://fairlyoddparents.fandom.com/wiki/Boy_Toy)					|
-| **9**	| **Character Design**		| 							| Arts (GCN)	| 																				|
+| 🔢	| 🔠	| 🎴	| 🎞️	| ✂	| 🎬	|
+| :-:	| ---	| ---	| ---	| ---	| ---	|
+| **1**	| **Icky Vicky**			| 1		| **Boys in the Band**		| Song			| [S02 E01](https://fairlyoddparents.fandom.com/wiki/Boys_in_the_Band)			|
+| **2**	| **I'm your father**		| 5		| **Abra-Catastrophe!**		| Scene			| [S03 E12](https://fairlyoddparents.fandom.com/wiki/Abra-Catastrophe!)			|
+| **3**	| **Shiny Teeth**			| 9		| **Shiny Teeth**			| Song			| [S03 E03](https://fairlyoddparents.fandom.com/wiki/Shiny_Teeth)				|
+| **4**	| **Arachnid kid**			| 13	| **Abra-Catastrophe!**		| Scene			| [S03 E12](https://fairlyoddparents.fandom.com/wiki/Abra-Catastrophe!)			|
+| **5**	| **Vicky Free Summer**		| 17	| **MicroPhony**			| Song			| [S03 E05](https://fairlyoddparents.fandom.com/wiki/MicroPhony)				|
+| **6**	| **Dinosaur park**			| 21	| **Abra-Catastrophe!**		| Scene			| [S03 E12](https://fairlyoddparents.fandom.com/wiki/Abra-Catastrophe!)			|
+| **7**	| **Good To Be A Man**		| 25	| **Love Struck!**			| Song			| [S03 E07](https://fairlyoddparents.fandom.com/wiki/Love_Struck!)				|
+| **8**	| **Alarm bomb**			| 29	| **Action Packed**			| Scene			| [S02 E05](https://fairlyoddparents.fandom.com/wiki/Action_Packed)				|
+| **9**	| **Mighty Mom & Dyno Dad**	| 33	| **Mighty Mom & Dyno Dad**	| Full (PS2)	| [S02 E15](https://fairlyoddparents.fandom.com/wiki/Mighty_Mom_and_Dyno_Dad)	|
+| **9**	| **Boy Toy**				| 33	| **Boy Toy**				| Full (Xbox)	| [S02 E03](https://fairlyoddparents.fandom.com/wiki/Boy_Toy)					|
+| **9**	| **Character Design**		| 33	| 							| Arts (GCN)	| 																				|
 
 ### Lady in Color (RU)
 
-| 🔢 | 🎞️ | 🎬 |
-| :-: | --- | --- |
-| **1**	| **Open Wide and Say Aaagh!**	| [S06 E04](https://fairlyoddparents.fandom.com/wiki/Open_Wide_and_Say_Aaagh!)		|
-| **2**	| **Oh, Brother!**				| [S05 E24](https://fairlyoddparents.fandom.com/wiki/Oh,_Brother!)					|
-| **3**	| **Cheese & Crockers**			| [S06 E09](https://fairlyoddparents.fandom.com/wiki/Cheese_%26_Crockers)			|
-| **4**	| **What's The Difference?**	| [S05 E25](https://fairlyoddparents.fandom.com/wiki/What%27s_The_Difference%3F)	|
-| **5**	| **Hairicane**					| [S06 E03](https://fairlyoddparents.fandom.com/wiki/Hairicane)						|
-| **6**	| **Land Before Timmy**			| [S06 E10](https://fairlyoddparents.fandom.com/wiki/Land_Before_Timmy)				|
-| **7**	| **Mission Responsible**		| [S06 E02](https://fairlyoddparents.fandom.com/wiki/Mission_Responsible)			|
-| **8**	| **Odd Pirates**				| [S06 E05](https://fairlyoddparents.fandom.com/wiki/Odd_Pirates)					|
-| **9**	| **Fairly Odd Baby**			| [S06 E01](https://fairlyoddparents.fandom.com/wiki/Fairly_Odd_Baby)				|
+| 🔢	| 🎞️	| 🎴	| 🎬	|
+| :-:	| ---	| ---	| ---	|
+| **1**	| **Open Wide and Say Aaagh!**	| 1		| [S06 E04](https://fairlyoddparents.fandom.com/wiki/Open_Wide_and_Say_Aaagh!)		|
+| **2**	| **Oh, Brother!**				| 5		| [S05 E24](https://fairlyoddparents.fandom.com/wiki/Oh,_Brother!)					|
+| **3**	| **Cheese & Crockers**			| 9		| [S06 E09](https://fairlyoddparents.fandom.com/wiki/Cheese_%26_Crockers)			|
+| **4**	| **What's The Difference?**	| 13	| [S05 E25](https://fairlyoddparents.fandom.com/wiki/What%27s_The_Difference%3F)	|
+| **5**	| **Hairicane**					| 17	| [S06 E03](https://fairlyoddparents.fandom.com/wiki/Hairicane)						|
+| **6**	| **Land Before Timmy**			| 21	| [S06 E10](https://fairlyoddparents.fandom.com/wiki/Land_Before_Timmy)				|
+| **7**	| **Mission Responsible**		| 25	| [S06 E02](https://fairlyoddparents.fandom.com/wiki/Mission_Responsible)			|
+| **8**	| **Odd Pirates**				| 29	| [S06 E05](https://fairlyoddparents.fandom.com/wiki/Odd_Pirates)					|
+| **9**	| **Fairly Odd Baby**			| 33	| [S06 E01](https://fairlyoddparents.fandom.com/wiki/Fairly_Odd_Baby)				|
