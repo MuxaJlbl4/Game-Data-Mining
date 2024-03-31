@@ -21,4 +21,5 @@ Personal collection of interesting info, extracted from games by reverse enginee
 - 🍰 [**Portal** Challenge Tables (+Mods)](Portal/Challenges.md)
 - ⚠️ [**Taz: Wanted** Map Schemes](Taz%20Wanted/Map%20Schemes.md)
 - ⏱️ [**TrackMania** Author Times (Nintendo)](TrackMania/Author%20Times%20Nintendo.md)
+- 🎨 [**TrackMania** National Skins](TrackMania/Skins.md)
 - 🎹 [**Соло на Клавиатуре** Список Цитат (**Keyboard Solo** Quotes List)](Keyboard%20Solo/ReadMe.md)
