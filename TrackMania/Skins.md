@@ -1,6 +1,6 @@
 # TrackMania National Skins
 
-| 🇺🇳	| 🔠	| 🗺️								| [ESWC](https://nadeo.fandom.com/wiki/TrackMania_Nations_ESWC)	| [TMNF](https://nadeo.fandom.com/wiki/TrackMania_Nations_Forever)<br>[TM2S](https://nadeo.fandom.com/wiki/TrackMania_2:_Stadium)	| [2k20](https://trackmania.fandom.com/wiki/Trackmania_(2020))	|
+| 🇺🇳	| Code	| Country								| [ESWC](https://nadeo.fandom.com/wiki/TrackMania_Nations_ESWC)	| [TMNF](https://nadeo.fandom.com/wiki/TrackMania_Nations_Forever)<br>[TM2S](https://nadeo.fandom.com/wiki/TrackMania_2:_Stadium)	| [2k20](https://trackmania.fandom.com/wiki/Trackmania_(2020))	|
 | :-:	| ---	| ---	| :-:	| :-:	| :-:	|
 | 🇦🇫		| **AFG**	| Afghanistan						| 	| 	| +	|
 | 🇦🇱		| **ALB**	| Albania							| 	| 	| +	|
@@ -82,7 +82,7 @@
 | 🇲🇰	| **MKD**	| Macedonia							| +	| +	| +	|
 | 🇲🇱	| **MLI**	| Mali								| 	| 	| +	|
 | 🇲🇹	| **MLT**	| Malta								| 	| 	| +	|
-| 🇲🇪	| **MNE**	| Montenegro						| *	| 	| +	|
+| 🇲🇪	| **MNE**	| Montenegro						| [+](# "Serbia and Montenegro (SCG)")	| 	| +	|
 | 🇲🇷	| **MRT**	| Mauritania						| +	| 	| 	|
 | 🇳🇱		| **NED**	| Netherlands						| +	| +	| +	|
 | 🇳🇬	| **NGR**	| Nigeria							|  	| +	| +	|
@@ -101,9 +101,9 @@
 | 🇿🇦		| **RSA**	| South Africa						| +	| +	| +	|
 | 🇷🇺		| **RUS**	| Russia							| +	| +	| +	|
 | 🇸🇳		| **SEN**	| Senegal							|  	| +	| +	|
-| 🇸🇬		| **SGP**	| Singapore							| +	| ?	| +	|
+| 🇸🇬		| **SGP**	| Singapore							| +	| [?](# "Other (???)")	| +	|
 | 🇸🇮		| **SLO**	| Slovenia							|  	| +	| +	|
-| 🇷🇸		| **SRB**	| Serbia							| *	| +	| +	|
+| 🇷🇸		| **SRB**	| Serbia							| [+](# "Serbia and Montenegro (SCG)")	| +	| +	|
 | 🇨🇭		| **SUI**	| Switzerland						| +	| +	| +	|
 | 🇸🇰		| **SVK**	| Slovakia							| +	| +	| +	|
 | 🇸🇪		| **SWE**	| Sweden							| +	| +	| +	|
