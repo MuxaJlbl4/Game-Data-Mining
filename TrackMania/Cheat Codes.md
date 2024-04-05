@@ -21,8 +21,8 @@ Cheat codes for TrackMania games developed by:
 - 🎥 **`mtrack`** - Unlock [Media Tracker](# "Editor button")
 - 🚩 **`antiun`** - Unlock [Modify Without Invalidate](# "Editor button (tiny red/green left-bottom square)")
 - 💵 **`dbgads`** - Advertising Debugging
-- 👻 **`ghosts`** - Unlock [Ghost Editor](Editor button)
-- 🕶️ **`stereo`** - Unlock [Stereoscopy Mode](Top bar button)
+- 👻 **`ghosts`** - Unlock [Ghost Editor](# "Editor button")
+- 🕶️ **`stereo`** - Unlock [Stereoscopy Mode](# "Top bar button")
 
 ### Availability Table
 | [📜](# "Cheat Code") | [🚘](# "TrackMania (Power Up!)") | [⏱️](# "TrackMania: Speed Up!") | [🌅](# "TrackMania Sunrise (eXtreme); TrackMania Original") | [🏁](# "TrackMania Nations ESWC") | [🎨](# "TrackMania United") | [🌍](# "TrackMania United Forever; TrackMania Nations Forever") |
@@ -44,7 +44,7 @@ Cheat codes for TrackMania games developed by:
 - 🏗 [Build to Race](https://nadeo.fandom.com/wiki/TrackMania:_Build_to_Race)
 
 ### Cheats
-👤 Type profile name as a cheat:
+👤 Type profile name as a cheat code:
 
 - 🛣️ **`TR4KM4N14C`** - Unlock [All Tracks](# "Except Puzzle and Platform tracks for ✏️ and 🚀") (**`TR4KMAN14C`** for [✏️](# "TrackMania DS"))
 - 🧩 **`BL0CKR0K3R`** - Unlock All Track Blocks
