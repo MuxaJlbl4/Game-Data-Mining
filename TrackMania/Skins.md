@@ -150,7 +150,7 @@
 | 🇵🇬		| **PNG**	| Papua New Guinea					| 	| 	| +	| 	|
 | 🇵🇱		| **POL**	| Poland							|  	| +	| +	| +	|
 | 🇵🇹		| **POR**	| Portugal							| +	| +	| +	| +	|
-| 🇰🇷		| **PRK**	| South Korea						| 	| 	| +	| 	|
+| 🇰🇵		| **PRK**	| North Korea						| 	| 	| +	| 	|
 | 🇶🇦		| **QAT**	| Qatar								| +	| +	| +	| +	|
 | 🇹🇼	| **ROC**	| Taiwan 							| 	| 	| +	| 	|
 | 🇷🇴		| **ROU**	| Romania							| +	| +	| +	| +	|
