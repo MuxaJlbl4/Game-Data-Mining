@@ -123,7 +123,7 @@
 | 🇲🇰	| **MKD**	| Macedonia							| +	| +	| +	| +	|
 | 🇲🇱		| **MLI**	| Mali								| 	| 	| +	| +	|
 | 🇲🇹	| **MLT**	| Malta								| 	| 	| +	| +	|
-| 🇲🇪	| **MNE**	| Montenegro						| [+](# "Serbia & Montenegro (SCG)")	| 	| 	| +	|
+| 🇲🇪	| **MNE**	| Montenegro						| [+](# "Serbia & Montenegro (SCG)")	| 	| +	| +	|
 | 🇲🇨	| **MON**	| Monaco							| 	| 	| +	| 	|
 | 🇲🇿	| **MOZ**	| Mozambique						| 	| 	| +	| 	|
 | 🇲🇺	| **MRI**	| Mauritius							| 	| 	| +	| 	|
