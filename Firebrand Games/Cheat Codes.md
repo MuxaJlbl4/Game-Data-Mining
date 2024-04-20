@@ -2,19 +2,17 @@
 
 In-game cheat codes for Firebrand Games (Nintendo DS and Wii):
 
-- [Cars 2]()
-- [Cartoon Network Racing]()
-- [Ferrari Challenge: Trofeo Pirelli]()
-- [Hot Wheels: Track Attack]()
-- [Need for Speed: Undercover]()
-- [Planet 51: The Game]()
-- [Race Driver: Create & Race]()
-- [Race Driver: Grid]()
-- [TrackMania DS / Turbo / Build to Race]()
+- [Cars 2](#cars-2)
+- [Cartoon Network Racing](#cartoon-network-racing)
+- [Ferrari Challenge: Trofeo Pirelli](#ferrari-challenge-trofeo-pirelli)
+- [Hot Wheels: Track Attack](#hot-wheels-track-attack)
+- [Need for Speed: Undercover](#need-for-speed-undercover)
+- [Planet 51: The Game](#planet-51-the-game)
+- [Race Driver: Create & Race](#race-driver-create--race)
+- [Race Driver: Grid](#race-driver-grid)
+- [TrackMania DS / Turbo / Build to Race](#trackmania-ds--turbo--build-to-race)
 
-## Cheat Codes
-
-### Cars 2
+## Cars 2
 
 C.H.R.O.M.E. - Spy Code:
 - **`116741`**	- Unlock Classic Theme ([mcqueen_2](# "QR Code: http://m.disney.go.com/m/car/t/page?id=1818415&pid=1818414&e=591"))
@@ -34,7 +32,7 @@ C.H.R.O.M.E. - Spy Code:
 - **`438329`**	- Unlock Acer ([pacer](# "QR Code: http://m.disney.go.com/m/car/t/page?id=1818415&pid=1818414&e=605"))
 
 
-### Cartoon Network Racing
+## Cartoon Network Racing
 
 Profile Name:
 - 🔓 **`GIMMIE`**	- Unlock All
@@ -45,7 +43,7 @@ Profile Name:
 - 🚀 **`ROCKETMAN`**	- Unlimited Rockets
 
 
-### Ferrari Challenge: Trofeo Pirelli
+## Ferrari Challenge: Trofeo Pirelli
 
 Profile Name:
 - 🚩 **`8RAK3P01NT`**	- All Challenges
@@ -56,7 +54,7 @@ Profile Name:
 - 🏅 **`F1R5TPLAC3`**	- All Championships
 
 
-### Hot Wheels: Track Attack
+## Hot Wheels: Track Attack
 
 Options -> Enter Code:
 - 🔥 **`700F4S7`**	- [Unlock](# "Wii only, DS effect is unknown"):
@@ -73,7 +71,7 @@ Options -> Enter Code:
 - 🏁 **`834T7H47`**	- Unlock All Events
 
 
-### Need for Speed: Undercover
+## Need for Speed: Undercover
 
 Game hacks for unlocking hidden cheat menu:
 - 🌎 `021E5AD0 00000800` - US version
@@ -87,7 +85,7 @@ Options -> Cheat Codes:
 - ⏲️ Unlimited Speedbreaker
 
 
-### Planet 51: The Game
+## Planet 51: The Game
 
 Options -> Cheat Codes:
 - 🏎️ **`876575`**	- Unlock All Vehicles
@@ -96,7 +94,7 @@ Options -> Cheat Codes:
 - 🎬 **`723071`**	- Unlock All Acts
 
 
-### Race Driver: Create & Race
+## Race Driver: Create & Race
 
 Extras -> Cheat Codes:
 - 🏅 **`761492`**	- All Championships
@@ -109,7 +107,7 @@ Extras -> Cheat Codes:
 - 🎥 **`467348`**	- MM View
 
 
-### Race Driver: Grid
+## Race Driver: Grid
 
 Options -> Cheat Codes:
 - 🔓 **`233558`**	- Unlock All
@@ -122,7 +120,7 @@ Options -> Cheat Codes:
 - 🛡️ **`161650`**	- Invulnerability
 
 
-### TrackMania DS / Turbo / Build to Race
+## TrackMania DS / Turbo / Build to Race
 
 Profile Name:
 - 🛣️ **`TR4KM4N14C`** - Unlock All Tracks (**`TR4KMAN14C`** for DS)
