@@ -19,8 +19,8 @@ Works with **PlayStation 2**, **Xbox**, **PC** and **GameCube** versions, both w
 - Hold **L3** (**LS**) - Ignore Wall Sliding (**PS2** and **Xbox**)
 
 ## Beta Cheats
-- <img src="./Icons/tweety.png" height="48" alt="🐤"> **?GF** - S.A.R (**PS2** beta-2)
-- <img src="./Icons/speedy.png" height="48" alt="🐭"> **!PP** - Stereoscopic (**PS2** beta-16 and **Xbox** beta-16)
+- <img src="./Icons/tweety.png" height="48" alt="🐤"> **?GF** - S.A.R (MS-21 Beta-2)
+- <img src="./Icons/speedy.png" height="48" alt="🐭"> **!PP** - Stereoscopic (Beta-16)
 
 ## Character Icons Table
 |  |  |  |  |  |
