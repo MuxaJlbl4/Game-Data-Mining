@@ -1,5 +1,5 @@
 # Taz: Wanted Cheat Codes
-At the start screen **on 3rd save slot** select specified icon and type cheat as profile name, then press **Rant** button (not END) to activate (tasty sound) or deactivate (burp sound) cheat code:
+At the start screen **on 3rd save slot** select specified icon, type cheat as a profile name, then press **Rant** button to toggle cheat code:
 - <img src="./Icons/tazshout.png" height="48" alt="😜"> **\*NO** - Deactivate All Cheats
 - <img src="./Icons/marvin.png" height="48" alt="⚔️"> **#OP** - All Levels
 - <img src="./Icons/tazscared.png" height="48" alt="😨"> **!WB** - Disable Whack-in-the-Boxes
@@ -12,7 +12,17 @@ At the start screen **on 3rd save slot** select specified icon and type cheat as
 
 Works with **PlayStation 2**, **Xbox**, **PC** and **GameCube** versions, both with **NTSC** and **PAL**
 
-## Character Icons Map
+## Hidden Button Combos
+- Hold **L1** + **R1** + **L3** - Look at Watch (when Digital Watch cheat is active) for **PS2**
+- Hold **E** + **T** + **Esc** - Same for **PC** (default keyboard controls)
+- Hold **LB** + **RB** + **LS** - Same for **Xbox** (⚪ + ⚫ + LS)
+- Hold **L3** (**LS**) - Ignore Wall Sliding (**PS2** and **Xbox**)
+
+## Beta Cheats
+- <img src="./Icons/tweety.png" height="48" alt="🐤"> **?GF** - S.A.R (**PS2** beta-2)
+- <img src="./Icons/speedy.png" height="48" alt="🐭"> **!PP** - Stereoscopic (**PS2** beta-16 and **Xbox** beta-16)
+
+## Character Icons Table
 |  |  |  |  |  |
 | :-----------------------: | :------------------------: | :------------------------: | :------------------------: | :----------------------: |
 | **1** | **2** | **3** | **4** | **5** |
@@ -32,7 +42,3 @@ Works with **PlayStation 2**, **Xbox**, **PC** and **GameCube** versions, both w
 - **X** - Xbox
 - **D** - PC
 - **X** - GameCube
-
-## Hidden Button Combos
-- Hold **L2** + **R2** + **L3** - Look at Watch (With Enabled Digital Watch)
-- Hold **L3** - Ignore Wall Sliding
