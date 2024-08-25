@@ -62,4 +62,5 @@ Options -> Cheat Codes -> Enter Cheat:
 - **`R3² L3 ↑ ↑ ↓² ↓² ← → ←² →² ✕ 〇`** - Decay Unlocked
 
 Buttons with **²** should be pressed on 2nd controller
+
 Press **⧐** to apply entered code
