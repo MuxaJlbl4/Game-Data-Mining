@@ -14,7 +14,7 @@ In-game cheat codes for Firebrand Games (Nintendo DS and Wii):
 
 ## Cars 2
 
-C.H.R.O.M.E. - Spy Code:
+C.H.R.O.M.E. -> Spy Code:
 - **`116741`**	- Unlock Classic Theme ([mcqueen_2](# "QR Code: http://m.disney.go.com/m/car/t/page?id=1818415&pid=1818414&e=591"))
 - **`174133`**	- Unlock Black Hood Theme ([francesco_1](# "QR Code: http://m.disney.go.com/m/car/t/page?id=1818415&pid=1818414&e=592"))
 - **`240136`**	- Unlock Lil Chef Theme ([sebastien_1](# "QR Code: http://m.disney.go.com/m/car/t/page?id=1818415&pid=1818414&e=593"))
