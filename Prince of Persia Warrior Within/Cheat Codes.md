@@ -1,8 +1,8 @@
 # Prince of Persia: Warrior Within Cheat Codes
 
-While in game, press and hold specified button, then type cheat
+While in game, press and hold the specified button then type cheat
 
-Do not release the specified button, while typing cheat
+Do not release the specified button while typing cheat
 
 Cheats should be typed as fast as you can (< 0.5 sec per button)
 
@@ -28,7 +28,7 @@ To unlock unavailable cheats, you should apply patch to the game:
 
 Hold  **`I`** while typing:
 
-- ❤️ **` С Space LMB E Space С LMB С `** - Full Life
+- ❤️ **` С Space LMB E Space С LMB С `** - Full Life
 - ⏳ **` С С Space LMB LMB Space E E `** - Full Sand
 - ⚕ **` LMB С E E С LMB С Space `** - Max Life (Unavailable)
 - 🏜️ **` E LMB Space Space E E LMB LMB `** - Max Sand (Unavailable)
