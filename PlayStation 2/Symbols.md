@@ -729,8 +729,8 @@ Debug symbols stats from **Official U.S. PlayStation Magazine Demo** disks (PS2)
 | Destroy All Humans! | DAH/UFO_DEMO.ELF | - | - |
 | Flipnic: Ultimate Pinball | FLIPNIC/MAIN.ELF | - | - |
 | Fullmetal Alchemist 2: Curse of the Crimson Elixir | SLU21166/SLUS_211.66 | - | - |
-| Prince of Persia: The Sands of Time | POP2DEMO/SCUD_000.00 | - | - |
-| Prince of Persia: Warrior Within | POP_SOT/POP_SOT.ELF | - | - |
+| Prince of Persia: The Sands of Time | POP_SOT/POP_SOT.ELF | - | - |
+| Prince of Persia: Warrior Within | POP2DEMO/SCUD_000.00 | - | - |
 | Rise of the Kasai | SCUS_974.62 | - | - |
 
 ## Official U.S. PlayStation Magazine Demo Disc 096
