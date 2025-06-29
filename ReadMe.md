@@ -14,6 +14,9 @@ Personal collection of interesting info, extracted from games by reverse enginee
 - ⚠️ [**Taz: Wanted**](Taz%20Wanted/Cheat%20Codes.md)
 - 🏁 [**TrackMania**](TrackMania/Cheat%20Codes.md)
 
+## Macro
+- 🍴 [**Sheep Raider** Infinite Jump (**Sheep, Dog 'n' Wolf**)](Sheep%20Raider/Macro)
+
 ## Arts
 - 🪄 [**The Fairly OddParents** Unlockables](Fairly%20OddParents/Unlockables.md)
 - 🗡️ [**Prince of Persia: Warrior Within** Unlockables](Prince%20of%20Persia%20Warrior%20Within/Unlockables.md)
