@@ -9,8 +9,8 @@ if (!A_IsAdmin)
 }
 
 ; Control Buttons
-B_USE := "K"			; ▢
-B_JMP := "J"			; ✕
+B_USE := "K"			; ✕
+B_JMP := "J"			; ▢
 B_SEE := "I"			; △
 B_RUN := "L"			; 〇
 B_INV := "Q"			; L1
