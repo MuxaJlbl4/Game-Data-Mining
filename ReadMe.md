@@ -15,7 +15,7 @@ Personal collection of interesting info, extracted from games by reverse enginee
 - 🏁 [**TrackMania**](TrackMania/Cheat%20Codes.md)
 
 ## Macro
-- 💣 [**Serious Sam HD** Rocket Jump Clip](Serious%Sam/Macro)
+- 💣 [**Serious Sam HD** Rocket Jump Clip](Serious%20Sam/Macro)
 - 🍴 [**Sheep Raider** Infinite Jump (**Sheep, Dog 'n' Wolf**)](Sheep%20Raider/Macro)
 
 ## Arts

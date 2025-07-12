@@ -1,7 +1,9 @@
 # Serious Sam HD Rocket Jump Clip Macro
 
 **Serious Sam HD** script for exploiting [clipping through the ground](https://kb.speeddemosarchive.com/Serious_Sam_HD/Game_Mechanics_and_Glitches#Clipping_through_the_ground) glitch with rocket jump
+
 Edit script buttons with your controls and start `SamHD.ahk` script as **Administrator**
+
 Additional delay adjustment may be required depend on conditions
 
 ### Compatible Game Versions
