@@ -17,14 +17,11 @@ B_ATK := "LButton"			; Attack
 B_CMD := "``"				; Console
 B_RET := "Enter"			; Return
 
-B_LT := "A"				; Console
-B_RT := "D"			; Return
-
-
 ; Delays
-D_FPS := 10					; FPS lock value
-D_QUA := 1000/D_FPS/4		; Quarter frame time
-D_HAL := 1000/D_FPS/2		; Half frame time
+D_CAP := 10					; FPS cap value
+D_DEF := 10000				; FPS default value
+D_QUA := 1000/D_CAP/4		; Quarter frame time
+D_HAL := 1000/D_CAP/2		; Half frame time
 D_ACC := 1150				; Delay after fire
 D_CLP := 250				; Delay after clip
 D_MIN := 1					; Delay for turbo key
@@ -63,11 +60,11 @@ Console(cmd)
 ; Ground clip with rocket jump
 $F8::
 {
-	Console("gfx_iMaxFPSActive=" D_FPS)
+	Console("gfx_iMaxFPSActive=" D_CAP)
 	PressKey(B_JMP, D_HAL, D_QUA)
 	FrameKey(B_ATK, D_QUA, D_ACC)
 	FrameKey(B_CRC, D_QUA, D_CLP)
-	Console("gfx_iMaxFPSActive=10000")
+	Console("gfx_iMaxFPSActive=" D_DEF)
 }
 
 ~RButton::
