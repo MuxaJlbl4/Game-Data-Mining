@@ -17,6 +17,10 @@ B_ATK := "LButton"			; Attack
 B_CMD := "``"				; Console
 B_RET := "Enter"			; Return
 
+B_LT := "A"				; Console
+B_RT := "D"			; Return
+
+
 ; Delays
 D_FPS := 10					; FPS lock value
 D_QUA := 1000/D_FPS/4		; Quarter frame time
@@ -64,4 +68,31 @@ $F8::
 	FrameKey(B_ATK, D_QUA, D_ACC)
 	FrameKey(B_CRC, D_QUA, D_CLP)
 	Console("gfx_iMaxFPSActive=10000")
+}
+
+~RButton::
+{
+	; Turbo XL2 Lasergun
+    if GetKeyState("LButton", "P")
+    {
+        while GetKeyState("RButton", "P") && GetKeyState("LButton", "P")
+        {
+            MouseClick "Left", , , , , "D"
+            Sleep D_MIN
+            MouseClick "Left", , , , , "U"
+            Sleep D_MIN
+        }
+    }
+	
+	; Turbo harpy jump
+	if GetKeyState("Space", "P")
+    {
+        while GetKeyState("RButton", "P") && GetKeyState("Space", "P")
+        {
+			Send "{" B_JMP " down}"
+			Sleep D_MIN
+			Send "{" B_JMP " up}"
+			Sleep D_MIN
+		}
+	}
 }
