@@ -17,6 +17,7 @@ Personal collection of interesting info, extracted from games by reverse enginee
 ## TAS
 - 💣 [**Serious Sam HD** Rocket Jump Clip](Serious%20Sam/Macro)
 - 🍴 [**Sheep Raider** Infinite Jump (**Sheep, Dog 'n' Wolf**)](Sheep%20Raider/Macro)
+- ( λ²) [**Source Engine** Accelerated Back Hopping](Source%20Engine/Macro)
 
 ## Arts
 - 🪄 [**The Fairly OddParents** Unlockables](Fairly%20OddParents/Unlockables.md)
