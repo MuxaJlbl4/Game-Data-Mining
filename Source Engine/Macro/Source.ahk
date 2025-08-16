@@ -16,50 +16,47 @@ B_CRC := "Ctrl"				; Crouch
 B_BKW := "S"				; Back
 B_USE := "E"				; Use
 
-; Delays
-D_HUN := 100
-D_TEN := 10
-D_ONE := 1
-
-
 ; Accelerated Back Hopping
-~Down::
+~X::
 {
 	Send "{" B_BKW " down}"
-	Sleep D_HUN
+	Sleep 200
+	
 	Send "{" B_CRC " down}"
 	Send "{" B_JMP " down}"
-	Sleep D_HUN
+	Sleep 200
 	
 	Send "{" B_BKW " up}"
 	Send "{" B_JMP " up}"
 	
-	while GetKeyState("Down", "P")
+	while GetKeyState("X", "P")
 	{
 		Send "{" B_JMP " down}"
-		Sleep D_ONE
+		Sleep 1
+		
 		Send "{" B_JMP " up}"
-		Sleep D_ONE
+		Sleep 1
 	}
 	
 	Send "{" B_CRC " up}"
 }
 
 ; Object Wall Climbing
-~Up::
+~C::
 {
 	Send "{" B_JMP " down}"
-	Sleep D_HUN
+	Sleep 200
 	
 	Send "{" B_JMP " up}"
 	
-	while GetKeyState("Up", "P")
+	while GetKeyState("C", "P")
 	{
 		Send "{" B_USE " down}"
 		Send "{" B_JMP " down}"
-		Sleep D_TEN
+		Sleep 10
+		
 		Send "{" B_USE " up}"
 		Send "{" B_JMP " up}"
-		Sleep D_TEN
+		Sleep 10
 	}
 }
