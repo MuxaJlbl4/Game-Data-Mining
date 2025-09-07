@@ -69,7 +69,7 @@ Press **⧐** to apply entered code
 
 ### Cheat Locations
 
-- 🟠 **Half-Life**
+- 🟠 **[Half-Life](https://www.youtube.com/watch?v=S9iXDFHinWU)**
 	- 📜 **Main Menu** - Options -> Credits
 	- 🔦 **Black Mesa Hazard Course** - Flashlight Tutorial `t0a0b1`
 	- 🌀 **Nihilanth** - 1st Teleportation Room `c4a3`
