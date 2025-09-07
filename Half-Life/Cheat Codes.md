@@ -69,19 +69,19 @@ Press **⧐** to apply entered code
 
 ### Cheat Locations
 
-- 🟠 Half-Life
-	- 📜 Options - Credits
-	- 🔦 Black Mesa Hazard Course - Flashlight Tutorial `t0a0b1`
-	- 🌀 Nihilanth - 1st Teleportation Room `c4a3`
-	- 👀 Decay - Colette Credits `htoutro`
-	- 🚧 Xen Attacks - Hidden Corridor `ht91alien`
-	- 📀 Official U.S. PlayStation Magazine Demo Disc 057 - Hint in 058
+- 🟠 **Half-Life**
+	- 📜 **Main Menu** - Options -> Credits
+	- 🔦 **Black Mesa Hazard Course** - Flashlight Tutorial `t0a0b1`
+	- 🌀 **Nihilanth** - 1st Teleportation Room `c4a3`
+	- 👀 **Decay** - Colette Credits `htoutro`
+	- 🚧 **Xen Attacks** - Hidden Corridor `ht91alien`
+	- 📀 **Official U.S. PlayStation Magazine Demo Disc 057** - Hint in 058
 	
-- 🔵 Blue Shift ([Mod](https://www.moddb.com/mods/half-life-blue-shift-playstation-2-mod))
-	- 📜 Options - Credits
-	- 🔦 Black Mesa Training Facility - Flashlight Tutorial `ba_hazard3`
-	- 🏗️ Duty Calls - Crane Room `ba_canal1b`
-	- 🏹 Focal Point - Hidden Crossbow `ba_xen3`
-	- 🛗 Power Struggle - Coolant Basin Lift Shaft `ba_power2`
-	- 🌀 A Leap of Faith - 2nd Teleportation Room `ba_outro`
+- 🔵 **[Blue Shift](https://www.moddb.com/mods/half-life-blue-shift-playstation-2-mod)**
+	- 📜 **Main Menu** - Options -> Credits
+	- 🔦 **Black Mesa Training Facility** - Flashlight Tutorial `ba_hazard3`
+	- 🏗️ **Duty Calls** - Crane Room `ba_canal1b`
+	- 🏹 **Focal Point** - Hidden Crossbow `ba_xen3`
+	- 🛗 **Power Struggle** - Coolant Basin Lift Shaft `ba_power2`
+	- 🌀 **A Leap of Faith** - 2nd Teleportation Room `ba_outro`
 	
