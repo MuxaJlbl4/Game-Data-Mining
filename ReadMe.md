@@ -10,7 +10,7 @@ Personal collection of interesting info, extracted from games by reverse enginee
 - 🔥 [**Firebrand Games**](Firebrand%20Games/Cheat%20Codes.md)
 - ( λ ) [**Half-Life**](Half-Life/Cheat%20Codes.md)
 - 🦇 [**Jersey Devil**](Jersey%20Devil/Cheat%20Codes.md)
-- ⏳ [**Prince of Persia: Sands of Time**](Prince%20of%20Persia%Sands%20of%20Time/Cheat%20Codes.md)
+- ⏳ [**Prince of Persia: Sands of Time**](Prince%20of%20Persia%20Sands%20of%20Time/Cheat%20Codes.md)
 - 🗡️ [**Prince of Persia: Warrior Within**](Prince%20of%20Persia%20Warrior%20Within/Cheat%20Codes.md)
 - ⚠️ [**Taz: Wanted**](Taz%20Wanted/Cheat%20Codes.md)
 - 🏁 [**TrackMania**](TrackMania/Cheat%20Codes.md)
