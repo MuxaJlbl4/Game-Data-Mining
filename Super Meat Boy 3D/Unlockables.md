@@ -18,7 +18,7 @@ Percentage values - comparison with corresponding Meat Boy stat
 
 
 ## 🍴 Meatball Boy
-- ⭐ Special skills: **Bouncy and wall-sticky**
+- ⭐ Special skills: **Auto jump**
 - 🔓 Unlock requirement: 🩹 5
 - 🎮 Game reference: [Super Meat Boy 3D](https://store.steampowered.com/app/3288210/Super_Meat_Boy_3D/)
 
@@ -57,7 +57,7 @@ Percentage values - comparison with corresponding Meat Boy stat
 
 
 ## 🧀 Cheese Boy
-- ⭐ Special skills: **Double dash**
+- ⭐ Special skills: **Double dash, slow wall down-sliding**
 - 🔓 Unlock requirement: 🩹 25
 - 🎮 Game reference: [Super Meat Boy 3D](https://store.steampowered.com/app/3288210/Super_Meat_Boy_3D/)
 
@@ -97,7 +97,7 @@ Percentage values - comparison with corresponding Meat Boy stat
 
 
 ## 🦀 Headcrab
-- ⭐ Special skills: **Wall cling, enhanced dash**
+- ⭐ Special skills: **Enhanced dash, wall cling**
 - 🔓 Unlock requirement: 🩹 75
 - 🎮 Game reference: [Half-Life Series](https://store.steampowered.com/app/70/HalfLife/) / [Super Meat Boy](https://store.steampowered.com/app/40800/Super_Meat_Boy/)
 
@@ -220,7 +220,7 @@ Percentage values - comparison with corresponding Meat Boy stat
 | 🦘 Shrinked jump height | 303 | $\color{Red}{\textsf{-37\\%}}$ |
 
 ## 🧢 Bing Bong
-- ⭐ Special skills: **Wall cling, post-slam jump**
+- ⭐ Special skills: **Post-slam jump, wall cling**
 - 🔓 Unlock requirement: Beat Dark Core
 - 🎮 Game reference: [PEAK](https://store.steampowered.com/app/3527290/PEAK/)
 
