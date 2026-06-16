@@ -205,8 +205,8 @@ Percentage values - comparison with corresponding Meat Boy stat
 | 🦘 Jump height | 484 | ==== |
 
 
-## 💤 Sandman
-- ⭐ Special skills: **Size shrink**
+## ⏳ Sandman
+- ⭐ Special skills: **Checkpoint placement, size shrink**
 - 🔓 Unlock requirement: Beat Dark Forge
 - 🎮 Game reference: [Through the Nightmares](https://store.steampowered.com/app/1266210/Through_the_Nightmares/)
 
@@ -215,7 +215,7 @@ Percentage values - comparison with corresponding Meat Boy stat
 | 🚶 Walking speed | 1350 | $\color{Green}{\textsf{+29\\%}}$ |
 | 🏃 Shrinked speed | 1012 | $\color{Red}{\textsf{-44\\%}}$ |
 | 🏹 Dash impulse | 2100 | ==== |
-| 🏹 Shrinked dash impulse | 1575 | $\color{Red}{\textsf{-25%\\%}}$ |
+| 🏹 Shrinked dash impulse | 1575 | $\color{Red}{\textsf{-25\\%}}$ |
 | 🦘 Jump height | 539 | $\color{Green}{\textsf{+11\\%}}$ |
 | 🦘 Shrinked jump height | 303 | $\color{Red}{\textsf{-37\\%}}$ |
 
